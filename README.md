@@ -1,6 +1,6 @@
 - 👋 Hi, I’m delfi (@clair-daisies).
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate . . .
 - 📫 How to reach me (@delfina.ghimire@gmail.com)
 
