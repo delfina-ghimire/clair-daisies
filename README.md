@@ -5,7 +5,7 @@
 
 - 👨‍💻 My projects are available at [My Portfolio](https://www.delfinaghimire.com/)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I regularly write articles on [Medium](https://medium.com/me/stories/public)
 
 - 💬 Ask me about **Anything?**
 
