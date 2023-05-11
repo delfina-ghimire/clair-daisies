@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/around_delfi" target="blank"><img src="https://img.shields.io/twitter/follow/around_delfi?logo=twitter&style=for-the-badge" alt="around_delfi" /></a> </p>
 
-- 👨‍💻 My projects are available at [www.delfinaghimire.com](www.delfinaghimire.com)
+- 👨‍💻 My projects are available at [My Portfolio](https://www.delfinaghimire.com/)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
